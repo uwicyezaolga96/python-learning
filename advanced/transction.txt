@@ -1,0 +1,6 @@
+Deposited 10.0 			Balance: 60.5
+withdrew 14.75 			Balance: 45.75
+Deposited 13.0 			Balance: 63.5
+Deposited 13.0 			Balance: 63.5
+withdrew 13.5 			Balance: 50.0
+withdrew 900.0 			Balance: -849.5
